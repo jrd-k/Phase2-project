@@ -1,8 +1,10 @@
 
-import Plants from './Plants';
+import navbar from "./Navbar"
 
-function App() {
-    
+  return (
+   <Navbar />
+=======
+function App() 
   )
 }
 
