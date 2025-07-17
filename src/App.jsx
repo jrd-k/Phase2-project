@@ -1,11 +1,14 @@
 
+
 import navbar from "./Navbar"
 
+
+function App () {
   return (
-   <Navbar />
-=======
-function App() 
-  )
+
+    <Navbar/>
+  ) 
+  
 }
 
-export default App;
+export default App ;
