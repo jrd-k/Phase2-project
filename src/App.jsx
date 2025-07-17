@@ -1,10 +1,7 @@
+
 import Plants from './Plants';
 
 function App() {
-  
-
-  return (    
-      <Plants />
     
   )
 }
