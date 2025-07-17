@@ -1,7 +1,11 @@
-import navbar from "./navbar";
+
+
+import navbar from "./Navbar"
+
 
 function App () {
   return (
+
     <Navbar/>
   ) 
   
